@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there! 
+
+My name is Sylvia Ren, I am an engineering student at Télécom Paris. I am specialized in Applied Mathematics and Computer Science.
 
 <!--
 **sylvia-ren/sylvia-ren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
